@@ -58,6 +58,9 @@
 </p>
 
 ---
+<div align="right">
+  <img src="https://user-images.githubusercontent.com/74038190/216656944-f8c1b44e-493b-487f-87be-6cfe6a1a3374.gif"/>
+</div>
 
 <!-- FOOTER -->
 <h2 align="center">⭐ Thanks for Visiting My Profile! ⭐<br>💬 Feel free to connect or collaborate!</h2>
