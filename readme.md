@@ -2,9 +2,9 @@
 <!-- HEADER -->
 <h1 align="center">✨ Hey 👋 What's Up? I'm <span style="color:#4FC3F7">Rakesh Kumar</span> ✨</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1200&center=true&vCenter=true&color=00E1FF&width=650&lines=Full-Stack+Developer+💻;Java+%7C+Python+%7C+DSA+⚡;MERN+Stack+Developer+🚀;Always+Learning+New+Things+🌱" alt="Typing Animation" />
-</p>
+<div style="width:100%;">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
+</div>
 
 ---
 
