@@ -36,13 +36,8 @@
 
 ---
 
-<!-- GITHUB STATS -->
-## 🔥 GitHub Streak  
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=rakeshkumar0380&theme=radical&hide_border=false&border_radius=10&card_width=550" />
-</div>
 
----
+
 
 ## 📈 GitHub Stats  
 <div align="center">
